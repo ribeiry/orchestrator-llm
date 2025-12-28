@@ -70,13 +70,13 @@ O objetivo é permitir que **diferentes aplicações**, cada uma com seu **domí
 
 * Go **1.22+**
 * Ollama rodando localmente
-* Modelo carregado no Ollama (ex: `gemma-backend`)
+* Modelo carregado no Ollama (ex: `gemma3`)
 * Serviços de RAG A e RAG B disponíveis (ou mocks)
 
 ### Subir o Ollama
 
 ```bash
-ollama run gemma-backend
+ollama run gemma3
 ```
 
 ### Rodar a aplicação
